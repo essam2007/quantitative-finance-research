@@ -1,0 +1,6 @@
+{
+  "code-runner.executorMap": {
+    "python": "/Users/essam/Desktop/quantitative-finance-research/.venv/bin/python3 -u"
+  },
+  "python.defaultInterpreterPath": "/Users/essam/Desktop/quantitative-finance-research/.venv/bin/python3"
+}
